@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/main.8a28769f.chunk.js",
+    "main.js.map": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/main.8a28769f.chunk.js.map",
+    "runtime-main.js": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/runtime-main.5d1970e6.js",
+    "runtime-main.js.map": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/runtime-main.5d1970e6.js.map",
+    "static/js/2.7b0189c0.chunk.js": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/2.7b0189c0.chunk.js",
+    "static/js/2.7b0189c0.chunk.js.map": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/2.7b0189c0.chunk.js.map",
+    "index.html": "https://madhusudhandebnath01.github.io/csb-pisjkw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7b0189c0.chunk.js.LICENSE.txt": "https://madhusudhandebnath01.github.io/csb-pisjkw/static/js/2.7b0189c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d1970e6.js",
+    "static/js/2.7b0189c0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8a28769f.chunk.js"
+  ]
+}
